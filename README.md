@@ -42,11 +42,16 @@ Traditional pseudorandom number generators can be vulnerable to prediction attac
 3: Use those keys with your favorite cryptographic tools — for example, CyberChef or OpenSSL.
 
 ## 📦 Installation
-You’ll need Python 3 and the following libraries:
+First you'll need to download the repository:
+```
+git clone https://github.com/MaestroSugo/lavarand-entropy-extractor.git
+cd lavarand-entropy-extractor
+```
+
+Now you’ll need Python 3 and the following libraries:
 - numpy
 - pillow
 - opencv-python
-
 
 Install all dependencies at once with:
 ```
@@ -56,6 +61,11 @@ pip install -r requirements.txt
 Alternatively, to install manually:
 ```
 pip install numpy pillow opencv-python
+```
+
+You can now run the script with the following command:
+```
+python LavaRand_EntropyExtractor.py
 ```
 
 ## 🧪 Requirements.txt
