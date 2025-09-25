@@ -1,4 +1,4 @@
-# LavaRand Entropy Extractore
+# LavaRand Entropy Extractor
 Turn your lava lamp chaos into cryptographic order!
 
 This Python script channels the chaotic beauty of moving lava lamps to generate high-quality, physically-based cryptographic keys.
